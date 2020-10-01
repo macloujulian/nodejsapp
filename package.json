@@ -4,7 +4,7 @@
   "description": "Es una app Hello World en nodejS",
   "private": true,
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.js"
   },
   "engines": {
     "node": "^14.8.0"
